@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Kotlin, Dart, Flutter**
 
-- 📞 Contact me on **+99833-250-06-09 or**[UpWork](https://www.upwork.com/freelancers/~01e9089589a4f0adb5)
+- 📞 Contact me on [UpWork](https://www.upwork.com/freelancers/~01e9089589a4f0adb5)
 
 - 📫 How to reach me [z.muhammadnuriddin.r](https://mail.google.com/mail/u/0/?pli=1#inbox)
 
