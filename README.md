@@ -18,7 +18,7 @@
 - 💬 Ask me about **Kotlin, Dart, Flutter**
 - 📞 Contact me on [UpWork](https://www.upwork.com/freelancers/~01e9089589a4f0adb5)
 - 📫 How to reach me [z.muhammadnuriddin.r](https://mail.google.com/mail/u/0/?pli=1#inbox)
-- 📄 Know about my experiences [Resume](https://www.upwork.com/freelancers/~01e9089589a4f0adb5)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TMBP-koSgQ3_AgTyFh0plADpzs61wIVj/view?usp=drive_link)
 
 <h2 align="left" style="color:white;" >🌐 My socials</h2>
 
