@@ -35,7 +35,7 @@
 <h2 align="left" style="color:white;" >🔥 My Skills</h2>
 
 <p align="left">
-    <a href="#"> <img src="https://skillicons.dev/icons?i=dart,flutter,vscode,androidstudio,github,firebase,figma,linux,kali,ai,git,postman,discord,bots&theme=dark" /> </a>
+    <a href="#"> <img src="https://skillicons.dev/icons?i=dart,flutter,vscode,androidstudio,github,firebase,figma,linux,kali,git,postman,discord,bots&theme=dark" /> </a>
 </p>
 
 <h2 align="left" style="color:white;" >🔥 GitHub Stats</h2>
