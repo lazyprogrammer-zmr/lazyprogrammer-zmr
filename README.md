@@ -23,8 +23,8 @@
 <h2 align="left" style="color:white;" >🌐 My socials</h2>
 
 <div align="left">
-    <a href="https://instagram.com/iamzmr.23" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" /></a>
-    <a href="https://tlgrm.in/iamzmr_23" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" /></a>
+    <a href="https://instagram.com/blackprince_23" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" /></a>
+    <a href="https://tlgrm.in/blackprince_23" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" /></a>
     <a href="https://linkedin.com/in/muhammadnuriddin" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadnuriddin" height="50" width="40" /></a>
     <a href="https://fb.com/muhammadnuriddin zokirov" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadnuriddin zokirov" height="50" width="40" /></a>
     <a href="https://www.leetcode.com/iamzmr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamzmr" height="50" width="40" /></a>
