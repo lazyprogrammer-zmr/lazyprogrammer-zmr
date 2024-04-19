@@ -37,12 +37,3 @@
 <p align="left">
     <a href="#"> <img src="https://skillicons.dev/icons?i=dart,flutter,vscode,androidstudio,github,firebase,figma,linux,kali,git,postman,discord,bots&theme=dark" /> </a>
 </p>
-
-<h2 align="left" style="color:white;" >🔥 GitHub Stats</h2>
-
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=iamzmr23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamzmr23&theme=tokyonight&hide_border=false" height="150" alt="stats graph" />
-</div>
-
-
